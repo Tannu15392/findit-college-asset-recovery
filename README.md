@@ -25,6 +25,14 @@ FindIt is a full-stack web application designed to help colleges track and recov
 - MongoDB
 
 ## Project Structure
+findit/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── styles/
+│ └── utils/
+├── public/
+└── findit-backend/
 
 ## How It Works
 
