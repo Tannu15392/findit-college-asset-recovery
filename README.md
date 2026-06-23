@@ -1,3 +1,30 @@
+# FindIt – College Asset Recovery Portal
+
+FindIt is a full-stack web application designed to help colleges track and recover lost or misplaced items. Students can report lost/found belongings, browse listings, and connect with owners or finders through a centralized platform.
+
+## Features
+
+- User authentication (Login / Signup)
+- Report lost and found items
+- Upload item photos
+- Browse and search listings
+- Category and location filtering
+- Item status tracking (Lost, Found, Claimed)
+- Match similar lost and found items
+- Responsive user interface
+
+## Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- CSS
+
+### Backend
+- Node.js
+- MongoDB
+
+## Project Structure
 
 ## How It Works
 
